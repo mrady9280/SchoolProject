@@ -46,3 +46,6 @@ testem.log
 Thumbs.db
 /bin
 /obj
+*.cache
+
+*/project.nuget.cache
